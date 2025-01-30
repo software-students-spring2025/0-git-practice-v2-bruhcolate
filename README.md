@@ -1,2 +1,6 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# matthew's GitHub Workflow Practice
+
+[Beyond Moneyball: Alumnus supports the Houston Astros using physics and engineering](https://www.rochester.edu/newscenter/beyond-moneyball-alumnus-supports-the-houston-astros-using-physics-and-engineering-613422/)
+
+## What I (matthew) found interesting
+Though this article in particular doesn't delve very far into software engineering specifically, it does mention it and it's relationship to baseball. As a baseball fanatic, I found it interesting to see what role software engineering is playing in the sport. I found it especially interesting to see that the role of software engineering is becoming increasingly important in the world of baseball, where teams are racing to build the best teams of software developers to stay ahead of the curve and bring success to their city. There is so much data to collect on players nowadays, and software developers are creating new technologies to sort through and analyze this data to produce the best results for their team. As an aspiring software developer and avid baseball fan, this a field I absolutely need to pursue in the future.
